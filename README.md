@@ -72,6 +72,13 @@ Extensions remain disabled for all VS Code sessions until you re-enable them.
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+    - -Git bash is an application that provides Git command line experience on the Operating System. It is a command-line shell for enabling git with the command line in the system. VSCode is a Text editor that provides support for development operations and version control systems. It provides tools for a user to build hassle-free codes. One should have an adequate understanding of these as they serve as prerequisites.
+    - Initializing a respiratory , Making commits, and pushing changes to GitHub
+        -To push your local changes to the remote repository, in the repository bar, click Push origin.
+        - If there are commits on the remote branch that you don't have on your local branch, GitHub Desktop prompts you to fetch new commits from the remote. In the "New Commits on 
+        Remote" window, click Fetch.
+        - Optionally, click Preview Pull Request to open a preview dialog where you can review your changes and begin to create a pull request. For more information, see "Creating an 
+        issue or pull request from GitHub Desktop."
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
