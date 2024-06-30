@@ -63,14 +63,35 @@ Extensions remain disabled for all VS Code sessions until you re-enable them.
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+   - Steps on how to create a file on VS code;
+       Open the VS Code project containing your application.
+       Click the Create File
+       Select the file group from Select File Group list.
+       Select the file type from the Select File Type list from the command palette at the top of the screen.
+       Enter a name for the file in the Create New File dialog box.
 
-8. Settings and Preferences:
+    How to open a files and folders on VS code;
+         Choose the File that you want to open
+         Open the folder and open it
+   Inorder to navigate bwtween diffferent files, use the Ctrl+Alt+-and Ctrl+Shift+-
+
+9. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+       -TO customize a menu bar on VS code; On the menuu bar, select Tools and customize. On the command tab, select the option button for the elememnt you would like to customize. 
 
-9. Debugging in VS Code:
+10. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
-
-10. Using Source Control:
+        Clarify the problem by asking yourself the right questions.
+        Examine your assumptions.
+        Step through your code in debugging mode to find where the problem occurred.
+       Summary.
+       Click on the Next steps.
+Debugging features availbale in VS Code;
+     Application control. Open and incremental execution. Procedure interruption. Procedure termination.
+     Application data management.
+     Execution monitoring. Code path analysis. Transaction monitoring. Breakpoint analysis. ...
+     Session management and information. Window settings. Listing management.
+11. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
     - -Git bash is an application that provides Git command line experience on the Operating System. It is a command-line shell for enabling git with the command line in the system. VSCode is a Text editor that provides support for development operations and version control systems. It provides tools for a user to build hassle-free codes. One should have an adequate understanding of these as they serve as prerequisites.
     - Initializing a respiratory , Making commits, and pushing changes to GitHub
